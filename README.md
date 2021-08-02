@@ -1,5 +1,9 @@
 # chainsaw_classification
 
+###  Project Background and Approach
+https://plump-cement-ed4.notion.site/4f27eefceb9f4ddd9aedef60cbd5adf4
+
+
 ### Data Crawling
 - 2_1_sound_scrapping.py : 구글 오디오셋 주소에서 전기톱 영상에 해당하는 ID를 뽑아오는 코드.
 이런 식으로 파싱하여 chainsaw_data.csv와 같은 형태로 저장한다.
